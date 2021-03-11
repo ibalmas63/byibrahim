@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EmirhanSarac/discord-sesli-mesaj-bot"
+    "url": "git+https://github.com/ibalmas63/byibrahim"
   },
-  "author": "emirhan",
+  "author": "byibrahim",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2",
     "fs": "^0.0.2",
-    "google-tts-api": "0.0.4",
-    "node-opus": "^0.3.1"
+    "google-tts-api": "2.0.1",
+    "node-opus": "^0.3.3"
   }
 }
